@@ -1,0 +1,46 @@
+<!-- riutilizzati -->
+.carousel-inner > .item > .panel-body > img,
+.carousel-inner > .item > .panel-body > a > img {
+      width: 45%;
+      margin: auto;
+}
+
+<!-- peculiari dell'applicazione -->
+.custom-equal-row{
+	background-color: #E7FFFF;
+	color: #4DB8B8;
+}
+
+.custom-odd-row{
+	background-color: #4DB8B8;
+	color: #E7FFFF;
+}
+
+.custom-panel-data-container{
+	width: 282px;
+}
+
+.custom-panel-data-container > .panel-body {
+	background-color:white; <!-- or #eee, the same color of the jumbotron that contains it -->
+}
+
+.custom-image-under-column-container{
+	padding-left: 30%;
+}
+
+.custom-not-active-link {
+   pointer-events: none;
+   cursor: default;
+}
+
+.custom-submit{
+	padding-left: 40%;
+}
+
+input[type="text"]{
+	height: 30px;
+}
+
+input[type="text"]{
+	height: 30px;
+}
