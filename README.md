@@ -1,5 +1,5 @@
 # Introduction
-This project consists in an online visual editor for creating 3D graphics by using the **BabylonJS** library.
+This project consists into an online visual editor for creating 3D graphics by using the **BabylonJS** library.
 
 It has been developed for an academic examination, and for this reason it is avaliable on a *"demo version"* and it has been always used in a localhost mode.
 For *"demo version"* we mean that there's not a GUI permitting you to load/import/export a project. In fact it keeps in memory just one project at time.
