@@ -41,7 +41,7 @@ Here is an example related to the selection of a sky-box.
 
 Please note that even in this case the contribute of the external project "bootstrap-fileinput" (see below) appears.
 
-# Getting Start (*Linux* only)
+# Getting Started (*Linux* only)
 For using WGLEditor you have to:
 * enable a PostgeSQL server: "systemctl start postgresql" (you have firstly to install the "postgresql" package)
 * enable the PHP web server: "php -S localhost:4000"
